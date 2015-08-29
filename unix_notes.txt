@@ -2,7 +2,7 @@
 pwd
 ls
 cd
-
+hello
 # read manual on manual
 man man
 man less
